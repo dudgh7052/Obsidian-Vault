@@ -1,0 +1,5 @@
+- 참조: https://www.youtube.com/watch?v=b3J2SInvuwM&t=743s
+- Player별 SpriteLibraryAsset 만듬
+- Player 오브젝트에 SpriteLibrary, SpriteResolver Component추가
+- Animation별로 Resolver 바꿔가며 녹화
+- SpriteLibrary에서 SpriteLibraryAsset만 바꿔주면 동일 애니메이션 실행
