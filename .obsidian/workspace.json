@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "하는것들 리스트.md"
+                "file": "Sugar High/SugarHigh 기획서.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "하는것들 리스트.md",
+                "file": "Sugar High/SugarHigh 기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "하는것들 리스트.md",
+                "file": "Sugar High/SugarHigh 기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "하는것들 리스트.md"
+                "file": "Sugar High/SugarHigh 기획서.md"
               }
             }
           }
@@ -145,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69acb9a99b09",
+  "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Sugar High/Player Animation 구현.md",
+    "Sugar High/0. Sugar High Todo.md",
+    "하는것들 리스트.md",
     "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
     "Programming/CSharp/문자열 반전 (Reverse).md",
     "Programming/CSharp/0. Variable Type.md",
-    "하는것들 리스트.md",
     "AchieveManager.md",
     "Programming/백준/문자열/(Bronze 5 - 2754) 학점계산.md",
     "Programming/백준/문자열/(Bronze 1 - 1032) 명령 프롬프트.md",
@@ -171,8 +175,6 @@
     "Programming/백준/그리디/(Bronze 1 - 15881) Pen Pineapple Apple Pen.md",
     "Programming/백준/그리디/(Bronze 1 - 25400) 제자리.md",
     "Programming/백준/그리디/(Bronze 3 - 30314) Just a Joystick.md",
-    "Programming/백준/그리디/(Bronze 2 - 18238) ZOAC 2.md",
-    "Programming/백준/그리디/(Bronze 3 - 28014) 첨탑 밀어서 부수기.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
