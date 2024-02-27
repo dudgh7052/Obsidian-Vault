@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
-                "mode": "source",
-                "source": false
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md"
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -149,13 +147,14 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/문자열/(Bronze 4 - 1264) 모음의 개수.md",
-    "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
-    "Programming/백준/1. 기타/(Silver 2 - 1406) 에디터.md",
+    "하는것들 리스트.md",
+    "Programming/Unity/오브젝트 간 방향 알아내기.md",
     "Sugar High/0. Sugar High Todo.md",
+    "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
+    "Programming/백준/문자열/(Bronze 4 - 1264) 모음의 개수.md",
+    "Programming/백준/1. 기타/(Silver 2 - 1406) 에디터.md",
     "Programming/Unity/Tags Class로 Tag 관리.md",
     "Programming/Unity/tag 대신 CompareTag 사용.md",
-    "하는것들 리스트.md",
     "AchieveManager.md",
     "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
     "Sugar High/SugarHigh 기획서.md",
@@ -174,7 +173,6 @@
     "Programming/백준/문자열/(Bronze 3 - 11721) 열 개씩 끊어 출력하기.md",
     "Programming/백준/문자열/(Silver 5 - 1181) 단어 정렬.md",
     "Programming/백준/그리디/(Bronze 1 - 27961) 고양이는 많을수록 좋다.md",
-    "Programming/백준/그리디/(Bronze 2 - 21313) 문어.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
