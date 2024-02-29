@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Sugar High/Player Animation 구현.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Sugar High/Player Animation 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Sugar High/Player Animation 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Sugar High/Player Animation 구현.md"
               }
             }
           }
@@ -145,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69acb9a99b09",
+  "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 7567) 그릇.md",
     "Programming/백준/String/(Bronze 3 - 10824) 네 수.md",
     "Programming/백준/String/(Bronze 5 - 2744) 대소문자 바꾸기.md",
@@ -163,7 +166,6 @@
     "Programming/백준/String/(Bronze 1 - 9093) 단어 뒤집기.md",
     "Programming/백준/String/(Bronze 1 - 1259) 팰린드롬수.md",
     "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
-    "Sugar High/0. Sugar High Todo.md",
     "하는것들 리스트.md",
     "Programming/Unity/오브젝트 간 방향 알아내기.md",
     "Programming/백준/브루트포스/(Bronze 2 - 1977) 완전제곱수.md",
