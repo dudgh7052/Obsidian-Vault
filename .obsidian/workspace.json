@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Sugar High/Player Animation 구현.md",
-                "mode": "source",
-                "source": false
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/Player Animation 구현.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/Player Animation 구현.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/Player Animation 구현.md"
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -149,6 +147,8 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/백준/String/(Bronze 4 - 11365) !밀비 급일.md",
+    "Sugar High/Player Animation 구현.md",
     "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 7567) 그릇.md",
     "Programming/백준/String/(Bronze 3 - 10824) 네 수.md",
@@ -173,8 +173,6 @@
     "Programming/Unity/Tags Class로 Tag 관리.md",
     "Programming/Unity/tag 대신 CompareTag 사용.md",
     "AchieveManager.md",
-    "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
-    "Sugar High/SugarHigh 기획서.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
