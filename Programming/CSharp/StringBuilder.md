@@ -47,7 +47,7 @@ Text m_scoreText;
 
 void Update()
 {
-    m_stringBuilder.Append()
+    m_stringBuilder.Append();
     m_score.Text = m_stringBuilder;
 }
 ```
