@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md"
               }
             }
           }
@@ -147,8 +149,9 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/String/(Bronze 2 - 10821) 정수의 개수.md",
     "Sugar High/0. Sugar High Todo.md",
+    "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+    "Programming/백준/String/(Bronze 2 - 10821) 정수의 개수.md",
     "하는것들 리스트.md",
     "Programming/백준/String/(Bronze 2 - 5598) 카이사르 암호.md",
     "Programming/백준/String/(Bronze 3 - 5988) 홀수일까 짝수일까.md",
@@ -172,7 +175,6 @@
     "Programming/백준/String/(Bronze 4 - 4470) 줄번호.md",
     "Programming/Unity/Tags Class로 Tag 관리.md",
     "Programming/백준/String/(Bronze 4 - 11365) !밀비 급일.md",
-    "Programming/백준/String/(Bronze 3 - 10824) 네 수.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
