@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
-                "mode": "source",
-                "source": false
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md"
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -149,13 +147,25 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/String/(Silver 5 - 1543) 문서 검색.md",
+    "Sugar High/0. Sugar High Todo.md",
+    "Unity/SpriteResolver & SpriteLibrary/Sprite Resolver.md",
+    "Unity/SpriteResolver & SpriteLibrary/Sprite Library Asset.md",
+    "ETC/How to take notes on Markdown.md",
+    "ETC/UnityHub에서 Unity Editor의 모듈 추가가 안 보일 경우.md",
+    "ETC/Visual Studio 단축키.md",
+    "하는것들 리스트.md",
+    "AchieveManager.md",
+    "Unity/Attribute.md",
+    "Unity/GetComponent.md",
+    "Programming/Patterns/Singleton Pattern.md",
+    "Unity/Addressable/Addressable 사용법.md",
+    "Unity/SpriteResolver & SpriteLibrary",
     "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
+    "Unity/Addressable",
+    "Programming/백준/String/(Silver 5 - 1543) 문서 검색.md",
     "Programming/백준/String/(Bronze 5 - 25372) 성택이의 은밀한 비밀번호.md",
     "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
-    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 10821) 정수의 개수.md",
-    "하는것들 리스트.md",
     "Programming/백준/String/(Bronze 2 - 5598) 카이사르 암호.md",
     "Programming/백준/String/(Bronze 3 - 5988) 홀수일까 짝수일까.md",
     "Programming/백준/String/(Bronze 2 - 11098) 첼시를 도와줘!.md",
@@ -165,16 +175,6 @@
     "Programming/백준/1. 기타/(Bronze 1 - 11653) 소인수분해.md",
     "Programming/백준/1. 기타/(Bronze 2 - 2577) 숫자의 개수.md",
     "Programming/백준/String/(Bronze 3 - 2857) FBI.md",
-    "Sugar High/Player Animation 구현.md",
-    "Programming/백준/String/(Bronze 3 - 4458) 첫 글자를 대문자로.md",
-    "Programming/CSharp/StreamReader, StreamWriter.md",
-    "Programming/CSharp/StringBuilder.md",
-    "Programming/CSharp/Null 조건 연산자.md",
-    "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
-    "Programming/CSharp/문자열 반전 (Reverse).md",
-    "Programming/CSharp/0. Variable Type.md",
-    "Unity/GetComponent.md",
-    "Programming/백준/String/(Bronze 2 - 2789) 유학.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
@@ -183,8 +183,6 @@
     "Programming/백준/String",
     "Programming/백준/그리디",
     "Programming/백준",
-    "Programming/CSharp",
-    "Programming/Unity",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
