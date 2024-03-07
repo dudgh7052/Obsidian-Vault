@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md"
+                "file": "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Sugar High/0. Sugar High Todo.md",
+    "Programming/백준/String/(Silver 5 - 1543) 문서 검색.md",
+    "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
+    "Programming/백준/String/(Bronze 5 - 25372) 성택이의 은밀한 비밀번호.md",
     "Programming/백준/String/(Bronze 2 - 18406) 럭키 스트레이트.md",
+    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 10821) 정수의 개수.md",
     "하는것들 리스트.md",
     "Programming/백준/String/(Bronze 2 - 5598) 카이사르 암호.md",
@@ -172,9 +175,6 @@
     "Programming/CSharp/0. Variable Type.md",
     "Unity/GetComponent.md",
     "Programming/백준/String/(Bronze 2 - 2789) 유학.md",
-    "Programming/백준/String/(Bronze 4 - 4470) 줄번호.md",
-    "Programming/Unity/Tags Class로 Tag 관리.md",
-    "Programming/백준/String/(Bronze 4 - 11365) !밀비 급일.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
