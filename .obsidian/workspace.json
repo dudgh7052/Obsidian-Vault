@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md"
               }
             }
           }
@@ -147,7 +149,10 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Sugar High/Player Animation 구현.md",
+    "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
     "Sugar High/0. Sugar High Todo.md",
+    "Sugar High/SugarHigh 기획서.md",
     "Unity/SpriteResolver & SpriteLibrary/Sprite Resolver.md",
     "Unity/SpriteResolver & SpriteLibrary/Sprite Library Asset.md",
     "ETC/How to take notes on Markdown.md",
@@ -172,9 +177,6 @@
     "Programming/백준/String/(Bronze 2 - 7567) 그릇.md",
     "Programming/백준/String/(Bronze 2 - 8958) OX 퀴즈.md",
     "Programming/백준/String/(Bronze 4 - 5524) 입실 관리.md",
-    "Programming/백준/1. 기타/(Bronze 1 - 11653) 소인수분해.md",
-    "Programming/백준/1. 기타/(Bronze 2 - 2577) 숫자의 개수.md",
-    "Programming/백준/String/(Bronze 3 - 2857) FBI.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",

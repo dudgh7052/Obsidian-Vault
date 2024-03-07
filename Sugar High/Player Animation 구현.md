@@ -3,3 +3,4 @@
 - Player 오브젝트에 SpriteLibrary, SpriteResolver Component추가
 - Animation별로 Resolver 바꿔가며 녹화
 - SpriteLibrary에서 SpriteLibraryAsset만 바꿔주면 동일 애니메이션 실행
+- [[Sprite Library Asset]] 참고하기
