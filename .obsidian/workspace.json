@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
-                "mode": "source",
-                "source": false
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 10822) 더하기.md"
+                "file": "Sugar High/0. Sugar High Todo.md"
               }
             }
           }
@@ -149,8 +147,10 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Sugar High/Player Animation 구현.md",
+    "Programming/백준/String/(Bronze 3 - 3059) 등장하지 않는 문자의 합.md",
+    "Programming/백준/String/(Bronze 2 - 11328) Strfry.md",
     "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
+    "Sugar High/Player Animation 구현.md",
     "Sugar High/0. Sugar High Todo.md",
     "Sugar High/SugarHigh 기획서.md",
     "Unity/SpriteResolver & SpriteLibrary/Sprite Resolver.md",
@@ -175,8 +175,6 @@
     "Programming/백준/String/(Bronze 3 - 5988) 홀수일까 짝수일까.md",
     "Programming/백준/String/(Bronze 2 - 11098) 첼시를 도와줘!.md",
     "Programming/백준/String/(Bronze 2 - 7567) 그릇.md",
-    "Programming/백준/String/(Bronze 2 - 8958) OX 퀴즈.md",
-    "Programming/백준/String/(Bronze 4 - 5524) 입실 관리.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
