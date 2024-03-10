@@ -11,8 +11,10 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Sugar High/0. Sugar High Todo.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sugar High/0. Sugar High Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sugar High/0. Sugar High Todo.md"
+              }
             }
           }
         ],
@@ -139,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "019d69acb9a99b09",
   "lastOpenFiles": [
+    "Programming/백준/String/(Bronze 1 - 1356) 유진수.md",
     "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 3062) 수 뒤집기.md",
     "Programming/CSharp/문자열 반전 (Reverse).md",
@@ -168,7 +175,6 @@
     "Unity/SpriteResolver & SpriteLibrary",
     "Programming/백준/String/(Bronze 2 - 5218) 알파벳 거리.md",
     "Unity/Addressable",
-    "Programming/백준/String/(Silver 5 - 1543) 문서 검색.md",
     "Sugar High",
     "Programming/백준/자료구조",
     "Unity/Cinemachine",
