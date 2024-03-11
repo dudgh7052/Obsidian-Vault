@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md"
               }
             }
           }
@@ -145,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69acb9a99b09",
+  "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Sugar High/0. Sugar High Todo.md",
+    "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
     "Programming/Unity/Switch문에서 when 절 사용.md",
     "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
     "Programming/Unity/Tags Class로 Tag 관리.md",
@@ -163,7 +167,6 @@
     "Programming/CSharp/0. Variable Type.md",
     "Programming/CSharp/StreamReader, StreamWriter.md",
     "Programming/CSharp/StringBuilder.md",
-    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 11944) NN.md",
     "Programming/백준/String/(Bronze 1 - 1551) 수열의 변화.md",
     "Programming/백준/String/(Bronze 5 - 27889) 특별한 학교 이름.md",
@@ -172,7 +175,6 @@
     "Programming/백준/String/(Bronze 2 - 3062) 수 뒤집기.md",
     "Programming/백준/String/(Bronze 5 - 15000).md",
     "Programming/백준/String/(Bronze 5 - 8545) Zadanie próbne.md",
-    "Programming/백준/String/(Bronze 2 - 12605) 단어순서 뒤집기.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
