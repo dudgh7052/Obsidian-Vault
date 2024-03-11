@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/Unity/Switch문에서 when 절 사용.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/Unity/Switch문에서 when 절 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "Programming/Unity/Switch문에서 when 절 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "Programming/Unity/Switch문에서 when 절 사용.md"
               }
             }
           }
@@ -145,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69acb9a99b09",
+  "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
+    "Programming/Unity/GetType().md",
+    "Programming/Unity/Switch문에서 when 절 사용.md",
+    "Programming/Unity/Tags Class로 Tag 관리.md",
+    "Programming/Unity/tag 대신 CompareTag 사용.md",
+    "Programming/CSharp/Switch문.md",
+    "Programming/Unity/AddComponent().md",
+    "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
+    "Programming/Unity/오브젝트 간 방향 알아내기.md",
+    "Unity/Addressable/Addressable.md",
+    "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
+    "Programming/CSharp/문자열 반전 (Reverse).md",
+    "Programming/CSharp/Null 조건 연산자.md",
+    "Programming/CSharp/0. Variable Type.md",
+    "Programming/CSharp/StreamReader, StreamWriter.md",
+    "Programming/CSharp/StringBuilder.md",
+    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 2 - 11944) NN.md",
     "Programming/백준/String/(Bronze 1 - 1551) 수열의 변화.md",
     "Programming/백준/String/(Bronze 5 - 27889) 특별한 학교 이름.md",
-    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 3 - 11586) 지영 공주님의 마법 거울.md",
-    "Programming/CSharp/문자열 반전 (Reverse).md",
     "Programming/백준/String/(Bronze 1 - 1356) 유진수.md",
     "Programming/백준/String/(Bronze 2 - 3062) 수 뒤집기.md",
     "Programming/백준/String/(Bronze 5 - 15000).md",
     "Programming/백준/String/(Bronze 5 - 8545) Zadanie próbne.md",
     "Programming/백준/String/(Bronze 2 - 12605) 단어순서 뒤집기.md",
-    "Programming/백준/String/(Bronze 2 - 2495) 연속구간.md",
-    "Programming/백준/String/(Bronze 2 - 5586) JOI와 IOI.md",
-    "Programming/백준/String/(Bronze 3 - 3059) 등장하지 않는 문자의 합.md",
-    "Programming/백준/String/(Bronze 2 - 11328) Strfry.md",
-    "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
-    "Sugar High/Player Animation 구현.md",
-    "Sugar High/SugarHigh 기획서.md",
-    "Unity/SpriteResolver & SpriteLibrary/Sprite Resolver.md",
-    "Unity/SpriteResolver & SpriteLibrary/Sprite Library Asset.md",
-    "ETC/How to take notes on Markdown.md",
-    "ETC/UnityHub에서 Unity Editor의 모듈 추가가 안 보일 경우.md",
-    "ETC/Visual Studio 단축키.md",
-    "하는것들 리스트.md",
-    "AchieveManager.md",
-    "Unity/Attribute.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",

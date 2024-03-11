@@ -5,10 +5,18 @@ tags:
 ---
 ### 1. string.Format()
 - Console.WriteLine()도 string.Format() 기반임
+- [[Addressable]] 의 폴더 형식을 미리 string 타입에 저장해두고 불러올 때 활용 가능
 ```C#
 string _format = string.Format("{0}{1}{2}", _value0, _value1, _value2); // ','뒤에 순서대로 넣어주기
 Console.WriteLine(_format);
 string _format = _value.ToString("F2"); // Tostring()도 가능
+
+// 미리 string타입으로 형식 지정해놓고 사용
+string m_loadKey = "Assets/ImageData/{0:G}/{0:G}Lib/{0:G}_{1:D}.spriteLib";
+public string GetAddressableKey (KeyType.Type argKeyType, LoadType.TYPE argLoadType, int argLoadIndex)
+{
+    return string.Format(m_loadKey, argLoadType.ToString(), argLoadIndex);
+}
 ```
 
 ### 2. 문자열 보간
