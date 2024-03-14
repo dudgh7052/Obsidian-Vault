@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "하는것들 리스트.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "하는것들 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md",
+                "file": "하는것들 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sugar High/0. Sugar High Todo.md"
+                "file": "하는것들 리스트.md"
               }
             }
           }
@@ -147,10 +147,12 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/백준/String/(Bronze 2 - 2386) 도비의 영어 공부.md",
+    "Programming/백준/String/(Bronze 2 - 1871) 좋은 자동차 번호판.md",
+    "Sugar High/0. Sugar High Todo.md",
     "Programming/백준/String/(Bronze 1 - 10769) 행복한지 슬픈지.md",
     "Sugar High/SugarHigh 기획서.md",
     "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
-    "Sugar High/0. Sugar High Todo.md",
     "Programming/Unity/Switch문에서 when 절 사용.md",
     "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
     "Programming/Unity/Tags Class로 Tag 관리.md",
@@ -171,8 +173,6 @@
     "Programming/백준/String/(Bronze 1 - 1551) 수열의 변화.md",
     "Programming/백준/String/(Bronze 5 - 27889) 특별한 학교 이름.md",
     "Programming/백준/String/(Bronze 3 - 11586) 지영 공주님의 마법 거울.md",
-    "Programming/백준/String/(Bronze 1 - 1356) 유진수.md",
-    "Programming/백준/String/(Bronze 2 - 3062) 수 뒤집기.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
