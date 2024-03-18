@@ -11,8 +11,12 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Unity/코드로 LayerMask Layer 할당해주기.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
     "Programming/백준/String/(Bronze - 5789) 한다 안한다.md",
     "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
     "Programming/백준/String/(Bronze 2 - 1864) 문어 숫자.md",
@@ -166,7 +175,6 @@
     "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
     "Programming/CSharp/문자열 반전 (Reverse).md",
     "Programming/CSharp/Null 조건 연산자.md",
-    "Programming/CSharp/0. Variable Type.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
