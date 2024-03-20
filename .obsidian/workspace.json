@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 1718) 암호.md",
-                "mode": "source",
-                "source": false
+                "file": "하는것들 리스트.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 1718) 암호.md",
+                "file": "하는것들 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 1718) 암호.md",
+                "file": "하는것들 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2 - 1718) 암호.md"
+                "file": "하는것들 리스트.md"
               }
             }
           }
@@ -147,10 +145,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "019d69acb9a99b09",
   "lastOpenFiles": [
-    "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
+    "Programming/CSharp/문자열 합치기 (string.Concat, string.Join, StringBuilder).md",
+    "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
+    "Programming/CSharp/Null 조건 연산자.md",
+    "Programming/CSharp/StreamReader, StreamWriter.md",
+    "Programming/CSharp/StringBuilder.md",
+    "Programming/CSharp/Switch문.md",
+    "Programming/백준/String/(Bronze 2 - 13163) 닉네임에 갓 붙이기.md",
+    "Programming/CSharp/0. Variable Type.md",
+    "Programming/CSharp/문자열 반전 (Reverse).md",
     "Programming/백준/String/(Bronze 2 - 1718) 암호.md",
+    "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
     "Programming/백준/String/(Bronze - 5789) 한다 안한다.md",
     "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
     "Programming/백준/String/(Bronze 2 - 1864) 문어 숫자.md",
@@ -166,15 +173,6 @@
     "Programming/Unity/Switch문에서 when 절 사용.md",
     "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
     "Programming/Unity/Tags Class로 Tag 관리.md",
-    "Programming/Unity/GetType().md",
-    "Programming/Unity/tag 대신 CompareTag 사용.md",
-    "Programming/CSharp/Switch문.md",
-    "Programming/Unity/AddComponent().md",
-    "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
-    "Programming/Unity/오브젝트 간 방향 알아내기.md",
-    "Unity/Addressable/Addressable.md",
-    "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
-    "Programming/CSharp/문자열 반전 (Reverse).md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
