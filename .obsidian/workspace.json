@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "하는것들 리스트.md"
+                "file": "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "하는것들 리스트.md",
+                "file": "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "하는것들 리스트.md",
+                "file": "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "하는것들 리스트.md"
+                "file": "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md"
               }
             }
           }
@@ -147,32 +149,33 @@
   },
   "active": "019d69acb9a99b09",
   "lastOpenFiles": [
+    "Programming/CSharp/Sort(정렬).md",
+    "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md",
+    "Programming/CSharp/Sort/List 문자열 대소문자 정렬.md",
+    "Programming/CSharp/Sort/List 내림차순 정렬.md",
+    "Programming/CSharp/0. Variable Type.md",
+    "Programming/CSharp/Sort",
+    "Programming/백준/Sort/(Silver 5 - 11651) 좌표 정렬하기 2.md",
+    "Programming/백준/0. 알고리즘 개념/버블 정렬(Bubble Sort).md",
+    "Programming/백준/Sort/(Silver 5 - 11650) 좌표 정렬하기.md",
+    "Programming/백준/Sort/(Silver 5 - 10814) 나이순 정렬.md",
+    "Programming/백준/Sort/(Silver 5 - 2751) 수 정렬하기 2.md",
+    "Programming/백준/Sort/(Bronze 2 - 25305) 커트라인.md",
+    "Programming/백준/Sort/(Bronze 2 - 2587) 대표값.md",
+    "Programming/Unity/Switch문에서 when 절 사용.md",
+    "Programming/CSharp/Switch문.md",
+    "Programming/CSharp/StringBuilder.md",
+    "Programming/CSharp/StreamReader, StreamWriter.md",
+    "Programming/CSharp/Null 조건 연산자.md",
     "Programming/CSharp/문자열 합치기 (string.Concat, string.Join, StringBuilder).md",
     "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
-    "Programming/CSharp/Null 조건 연산자.md",
-    "Programming/CSharp/StreamReader, StreamWriter.md",
-    "Programming/CSharp/StringBuilder.md",
-    "Programming/CSharp/Switch문.md",
-    "Programming/백준/String/(Bronze 2 - 13163) 닉네임에 갓 붙이기.md",
-    "Programming/CSharp/0. Variable Type.md",
     "Programming/CSharp/문자열 반전 (Reverse).md",
+    "Programming/백준/String/(Bronze 1 - 2204) 도비의 난독증 테스트.md",
+    "Programming/백준/String/(Bronze 3 - 5789) 한다 안한다.md",
+    "하는것들 리스트.md",
+    "Programming/백준/String/(Bronze 2 - 13163) 닉네임에 갓 붙이기.md",
     "Programming/백준/String/(Bronze 2 - 1718) 암호.md",
     "Programming/Unity/코드로 LayerMask Layer 할당해주기.md",
-    "Programming/백준/String/(Bronze - 5789) 한다 안한다.md",
-    "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
-    "Programming/백준/String/(Bronze 2 - 1864) 문어 숫자.md",
-    "Programming/백준/String/(Bronze 5 - 18409) 母音を数える (Counting Vowels).md",
-    "Programming/백준/String/(Bronze 4 - 17863) FYI.md",
-    "하는것들 리스트.md",
-    "Programming/백준/String/(Bronze 2 - 2386) 도비의 영어 공부.md",
-    "Programming/백준/String/(Bronze 2 - 1871) 좋은 자동차 번호판.md",
-    "Sugar High/0. Sugar High Todo.md",
-    "Programming/백준/String/(Bronze 1 - 10769) 행복한지 슬픈지.md",
-    "Sugar High/SugarHigh 기획서.md",
-    "Programming/백준/String/(Bronze 2 - 3028) 창영마을.md",
-    "Programming/Unity/Switch문에서 when 절 사용.md",
-    "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
-    "Programming/Unity/Tags Class로 Tag 관리.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
@@ -182,7 +185,6 @@
     "Programming/Patterns",
     "Programming/백준/String",
     "Programming/백준/그리디",
-    "Programming/백준",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
