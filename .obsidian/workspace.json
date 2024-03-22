@@ -11,12 +11,8 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,18 +141,23 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "AchieveManager.md",
+    "하는것들 리스트.md",
+    "Programming/백준/String/(Bronze 2 - 5704) 팬그램.md",
+    "Programming/백준/String/(Silver 3 - 17413) 단어 뒤집기 2.md",
+    "Programming/CSharp/문자열 반전 (Reverse).md",
+    "Programming/백준/String/(Bronze 4 - 26068) 치킨댄스를 추는 곰곰이를 본 임스 2.md",
+    "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
     "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
     "Programming/백준/String/(Bronze 2 - 10173) 니모를 찾아서.md",
     "Programming/CSharp/string.Contains().md",
     "Programming/CSharp/StreamReader, StreamWriter.md",
     "Programming/CSharp/문자열 합치기 (string.Concat, string.Join, StringBuilder).md",
     "Programming/CSharp/문자열 서식 맞추기 (string.Format(), 문자열 보간).md",
-    "Programming/CSharp/문자열 반전 (Reverse).md",
     "Programming/CSharp/StringBuilder.md",
     "Programming/CSharp/Sort/List 문자열 대소문자 정렬.md",
     "Programming/CSharp/Sort/List.OrderBy() 두 개의 기준으로 정렬하기.md",
     "Programming/CSharp/Sort/List 내림차순 정렬.md",
-    "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
     "Programming/CSharp/Sort(정렬).md",
     "Programming/CSharp/0. Variable Type.md",
     "Programming/CSharp/Sort",
@@ -171,11 +168,6 @@
     "Programming/백준/Sort/(Silver 5 - 2751) 수 정렬하기 2.md",
     "Programming/백준/Sort/(Bronze 2 - 25305) 커트라인.md",
     "Programming/백준/Sort/(Bronze 2 - 2587) 대표값.md",
-    "Programming/Unity/Switch문에서 when 절 사용.md",
-    "Programming/CSharp/Switch문.md",
-    "Programming/CSharp/Null 조건 연산자.md",
-    "Programming/백준/String/(Bronze 1 - 2204) 도비의 난독증 테스트.md",
-    "Programming/백준/String/(Bronze 3 - 5789) 한다 안한다.md",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
     "Sugar High",
