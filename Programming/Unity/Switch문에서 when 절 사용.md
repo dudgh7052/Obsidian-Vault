@@ -3,7 +3,7 @@ tags:
   - Unity
   - CSharp
 ---
-- [[Switch문]]는 조건을 상수, bool, string으로만 받을 수 있음
+- [[Switch]]는 조건을 상수, bool, string으로만 받을 수 있음
 - when 절을 사용해서 좀 더 다양하게 조건 분기를 하여 if,else 문을 대체 할 수 있음
 ### int형에서의 활용
 - when 절을 통해 범위를 지정해서 조건 분기
