@@ -33,6 +33,26 @@ string CharacterSetting(string argType)
         _ => "Wrong Type...",
     };
 }
+
+int _firstNum = 6;
+int _secondNum = 3;
+int _sum = 0;
+
+char _operator = '+';
+
+_sum = Operation();
+Console.WriteLine(_sum); // 9 출력
+
+int Operation()
+{
+    return _operator switch
+    {
+        '+' => _firstNum + _secondNum,
+        '-' => _firstNum - _secondNum,
+        '*' => _firstNum * _secondNum,
+        '/' => _firstNum / _secondNum,
+    };
+}
 ```
 
 ### 참고
