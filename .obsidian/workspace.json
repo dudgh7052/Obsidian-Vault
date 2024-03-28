@@ -11,8 +11,12 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/백준/String/(Bronze 2 - 4447) 좋은놈 나쁜놈.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/백준/String/(Bronze 2 - 4447) 좋은놈 나쁜놈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/백준/String/(Bronze 2 - 4447) 좋은놈 나쁜놈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/백준/String/(Bronze 2 - 4447) 좋은놈 나쁜놈.md"
+              }
             }
           }
         ],
@@ -141,32 +149,32 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/String/(Bronze 4 - 28074) 모비스.md",
-    "Programming/백준/String/(Bronze 4 - 27310) chino_shock.md",
-    "Programming/백준/String/(Bronze 2 - 15813) 너의 이름은 몇 점이니.md",
     "Programming/CSharp/switch expression.md",
-    "Programming/CSharp/Switch.md",
+    "Programming/백준/String/(Bronze 2 - 4447) 좋은놈 나쁜놈.md",
     "Programming/Unity/Switch문에서 when 절 사용.md",
+    "Programming/CSharp/Switch.md",
+    "Programming/백준/String/(Bronze 4 - 27310) chino_shock.md",
+    "Programming/백준/String/(Bronze 4 - 28074) 모비스.md",
+    "Programming/백준/String/(Bronze 5 - 25372) 성택이의 은밀한 비밀번호.md",
+    "Programming/백준/String/(Bronze 5 - 27889) 특별한 학교 이름.md",
+    "Programming/백준/String/(Bronze 5 - 29699) Welcome to SMUPC!.md",
+    "Programming/백준/String/(Silver 3 - 17413) 단어 뒤집기 2.md",
+    "Programming/백준/String/(Silver 5 - 1181) 단어 정렬.md",
+    "Programming/백준/String/(Silver 5 - 1427) 소트인사이드.md",
+    "Programming/백준/String/(Silver 5 - 1543) 문서 검색.md",
+    "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
+    "Programming/백준/String/(Bronze 1 - 10769) 행복한지 슬픈지.md",
+    "Programming/백준/String/(Bronze 1 - 9093) 단어 뒤집기.md",
+    "Programming/백준/String/(Bronze 1 - 2204) 도비의 난독증 테스트.md",
+    "Programming/백준/String/(Bronze 1 - 1551) 수열의 변화.md",
+    "Programming/백준/String/(Bronze 1 - 1357) 뒤집힌 덧셈.md",
+    "Programming/백준/String/(Bronze 1 - 1356) 유진수.md",
+    "Programming/백준/String/(Bronze 1 - 1259) 팰린드롬수.md",
+    "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
+    "Programming/백준/String/(Bronze 2 - 8949) 대충 더해.md",
+    "Programming/백준/String/(Bronze 2 - 15813) 너의 이름은 몇 점이니.md",
     "Programming/백준/String/(Bronze 2 - 13420) 사칙연산.md",
     "Programming/백준/String/(Bronze 1 - 11383) 뚊.md",
-    "Programming/백준/String/(Bronze 3 - 20540) 연길이의 이상형.md",
-    "Programming/백준/String/(Bronze 2 - 5026) 박사 과정.md",
-    "Programming/백준/String/(Bronze 5 - 29699) Welcome to SMUPC!.md",
-    "Programming/백준/String/(Bronze 2 - 5656) 비교 연산자.md",
-    "Programming/백준/String/(Bronze 2 - 17249) 태보태보 총난타.md",
-    "Programming/백준/String/(Bronze 3 - 4740) 거울, 오! 거울.md",
-    "Programming/CSharp/문자열 반전 (Reverse).md",
-    "Programming/백준/String/(Bronze 4 - 21964) 선린인터넷고등학교 교가.md",
-    "Programming/백준/String/(Bronze 2 - 13235) 팰린드롬.md",
-    "AchieveManager.md",
-    "하는것들 리스트.md",
-    "Programming/백준/String/(Bronze 2 - 5704) 팬그램.md",
-    "Programming/백준/String/(Silver 3 - 17413) 단어 뒤집기 2.md",
-    "Programming/백준/String/(Bronze 4 - 26068) 치킨댄스를 추는 곰곰이를 본 임스 2.md",
-    "Programming/백준/String/(Bronze 1 - 10823) 더하기 2.md",
-    "Programming/백준/String/(Bronze 2 - 10822) 더하기.md",
-    "Programming/백준/String/(Bronze 2 - 10173) 니모를 찾아서.md",
-    "Programming/CSharp/string.Contains().md",
     "Programming/CSharp/Sort",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",

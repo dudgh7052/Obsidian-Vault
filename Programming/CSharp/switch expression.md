@@ -53,6 +53,18 @@ int Operation()
         '/' => _firstNum / _secondNum,
     };
 }
+
+// when절도 사용가능
+string Check()
+{
+    int _count = Count('g');
+    return _count switch
+    {
+        int value when value > Count('b') => "is GOOD",
+        int value when value < Count('b') => "is A BADDY",
+        int value when value == Count('b') => "is NEUTRAL",
+    };
+}
 ```
 
 ### 참고
