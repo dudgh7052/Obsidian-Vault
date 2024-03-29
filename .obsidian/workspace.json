@@ -11,8 +11,12 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Unity/WorldToViewPoint(Vector3 position).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Unity/WorldToViewPoint(Vector3 position).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Unity/WorldToViewPoint(Vector3 position).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Unity/WorldToViewPoint(Vector3 position).md"
+              }
             }
           }
         ],
@@ -141,6 +149,8 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/Unity/magnitude 대신 sqrMagnitude 사용.md",
+    "Programming/Unity/WorldToViewPoint(Vector3 position).md",
     "Programming/백준/String/(Bronze 5 - 29731)  2033년 밈 투표.md",
     "Programming/백준/String/(Bronze 2 - 27160) 할리갈리.md",
     "Programming/백준/String/(Bronze 3 - 17094) Serious Problem.md",
@@ -165,8 +175,6 @@
     "Programming/백준/String/(Bronze 1 - 1551) 수열의 변화.md",
     "Programming/백준/String/(Bronze 1 - 1357) 뒤집힌 덧셈.md",
     "Programming/백준/String/(Bronze 1 - 1356) 유진수.md",
-    "Programming/백준/String/(Bronze 1 - 1259) 팰린드롬수.md",
-    "Programming/백준/String/(Bronze 1 - 1032) 명령 프롬프트.md",
     "Programming/CSharp/Sort",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
