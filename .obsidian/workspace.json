@@ -11,8 +11,12 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 271.5
   },
   "right": {
     "id": "96a9fea32f9820c6",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md"
+              }
             }
           }
         ],
@@ -141,10 +149,17 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/CSharp/Sort/List 내림차순 정렬.md",
+    "Programming/백준/String/(Silver 4 - 2870) 수학숙제.md",
+    "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
+    "Programming/CSharp/Sort/List 문자열 대소문자 정렬.md",
+    "Programming/CSharp/Sort/List.OrderBy() 두 개이상의 기준으로 정렬하기.md",
+    "Programming/CSharp/Trim()을 통해서 002에서 2 가져오기.md",
+    "Programming/CSharp/switch expression.md",
+    "SwordProject Todo.md",
     "Programming/백준/String/(Silver 4 - 1235) 학생 번호.md",
     "Programming/백준/String/(Bronze 2 - 4597) 패리티.md",
     "Programming/백준/String/(Silver 5 - 27964) 콰트로치즈피자.md",
-    "SwordProject Todo.md",
     "Programming/백준/String/(Silver 5 - 5426) 비밀 편지.md",
     "Programming/백준/String/(Silver 5 -1652) 누울 자리를 찾아라.md",
     "Programming/백준/String/(Silver 5 - 5635) 생일.md",
@@ -158,15 +173,8 @@
     "Programming/백준/String/(Silver 3 - 17413) 단어 뒤집기 2.md",
     "하는것들 리스트.md",
     "AchieveManager.md",
-    "Programming/CSharp/Sort/List.OrderBy() 두 개이상의 기준으로 정렬하기.md",
-    "Programming/CSharp/Sort/List 문자열 대소문자 정렬.md",
-    "Programming/CSharp/Sort/List 내림차순 정렬.md",
     "Programming/백준/String/(Bronze 2 - 12780) 원피스.md",
     "Programming/백준/String/(Bronze 4 - 30999) 민주주의.md",
-    "Programming/백준/String/(Bronze 2 - 3181) 줄임말 만들기.md",
-    "Programming/백준/String/(Bronze 2 - 21734) SMUPC의 등장.md",
-    "Sugar High/SugarHigh 기획서.md",
-    "Sugar High/Player Animation 구현.md",
     "Programming/CSharp/Sort",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
