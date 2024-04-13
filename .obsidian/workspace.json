@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
-                "mode": "source",
-                "source": false
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md"
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -149,9 +147,11 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/백준/String/(Silver 5 - 5555) 반지.md",
+    "AchieveManager.md",
+    "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
     "Programming/CSharp/Sort/List 내림차순 정렬.md",
     "Programming/백준/String/(Silver 4 - 2870) 수학숙제.md",
-    "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
     "Programming/CSharp/Sort/List 문자열 대소문자 정렬.md",
     "Programming/CSharp/Sort/List.OrderBy() 두 개이상의 기준으로 정렬하기.md",
     "Programming/CSharp/Trim()을 통해서 002에서 2 가져오기.md",
@@ -172,9 +172,7 @@
     "Programming/백준/String/(Bronze 5 - 29731)  2033년 밈 투표.md",
     "Programming/백준/String/(Silver 3 - 17413) 단어 뒤집기 2.md",
     "하는것들 리스트.md",
-    "AchieveManager.md",
     "Programming/백준/String/(Bronze 2 - 12780) 원피스.md",
-    "Programming/백준/String/(Bronze 4 - 30999) 민주주의.md",
     "Programming/CSharp/Sort",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
