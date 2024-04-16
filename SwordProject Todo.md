@@ -4,15 +4,14 @@ kanban-plugin: basic
 
 ---
 
-## Todo
+## 이번주 할거
 
-- [ ] Stage UI 일부 만들기<br>1. 플레이어 Hp bar<br>2. Monster Floating Damage Text<br>3. Player Floating Damage Text<br>3. Enemy Hp bar<br>4. Boss Hp bar
+- [ ] 플레이어 Hp Bar Text 추가
+- [ ] World Canvas Floating Text 구현
+- [ ] Word Canvas Hp Bar 구현
+- [ ] 보스 Hp Bar 구현
 - [ ] Stage UI 기능 구현
-- [ ] Stage Select 구현
-- [ ] 로딩 씬 구현
-- [ ] Player 애니메이션 제작
-- [ ] 히트, 죽음 이펙트 생성 및 데이터 마다 이펙트 추가
-- [ ] SoundManager 만들기
+- [ ] 로비씬 메인 UI 구성
 
 
 ## 하는중
@@ -26,6 +25,15 @@ kanban-plugin: basic
 - [ ] 보스 스킬 랜덤하게 호출
 - [ ] 보스 사망 시 클리어 맵 생성
 - [ ] 보스 데이터 만들기<br>(체력, 데미지, 생성 몬스터, 원거리 공격)
+
+
+## 할거 리스트
+
+- [ ] Stage Select 구현
+- [ ] 로딩 씬 구현
+- [ ] Player 애니메이션 제작
+- [ ] 히트, 죽음 이펙트 생성 및 데이터 마다 이펙트 추가
+- [ ] SoundManager 만들기
 
 
 ## 보수작업 리스트
