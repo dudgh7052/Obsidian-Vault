@@ -13,13 +13,13 @@ kanban-plugin: basic
 
 ## 하는중
 
-- [ ] World Canvas Floating Text 구현<br>1. 타입에 맞게 텍스트 색<br>2. 타입 이미지
 
 
 ## 할거 리스트
 
 - [ ] Stage UI 기능 구현
 - [ ] 로비씬 메인 UI 구성
+- [ ] 속성 데미지 구현
 - [ ] Stage Select 구현
 - [ ] 로딩 씬 구현
 - [ ] Player 애니메이션 제작
@@ -40,6 +40,7 @@ kanban-plugin: basic
 
 - [ ] 데이터마다 재화 추가
 - [ ] ClearMap 생성 조정
+- [ ] World Canvas Floating Text 구현<br>1. 타입에 맞게 텍스트 색 *<br>2. 타입 이미지 *<br>나중에 타입 이미지랑 색상 설정
 
 
 
