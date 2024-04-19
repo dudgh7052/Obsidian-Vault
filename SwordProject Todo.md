@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## 이번주 할거
 
-- [ ] 플레이어 Hp Bar Text 추가
-- [ ] Word Canvas Hp Bar 구현
 - [ ] 보스 Hp Bar 구현
 
 
 ## 하는중
 
+- [ ] 플레이어 Hp Bar Text 추가
+- [ ] Word Canvas Hp Bar 구현
 
 
 ## 할거 리스트
