@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 이번주 할거
 
-- [ ] 보스 Hp Bar 구현
 
 
 ## 하는중
@@ -32,8 +31,9 @@ kanban-plugin: basic
 - [ ] 보스 스킬 랜덤하게 호출
 - [ ] 보스 사망 시 클리어 맵 생성
 - [ ] 보스 데이터 만들기<br>(체력, 데미지, 생성 몬스터, 원거리 공격)
-- [ ] 플레이어 Hp Bar Text 추가
 - [ ] Word Canvas Hp Bar 구현
+- [ ] 보스 Hp Bar 구현
+- [ ] 플레이어 Hp Bar Text 추가
 
 
 ## 보수작업 리스트
