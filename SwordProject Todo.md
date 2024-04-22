@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## 이번주 할거
 
+- [ ] 로비씬 메인 UI 구성
+- [ ] Stage UI 기능 구현<br>1. Stage Select 구현
+- [ ] Option UI 구성
 
 
 ## 하는중
@@ -14,14 +17,12 @@ kanban-plugin: basic
 
 ## 할거 리스트
 
-- [ ] Stage UI 기능 구현
-- [ ] 로비씬 메인 UI 구성
 - [ ] 속성 데미지 구현
-- [ ] Stage Select 구현
 - [ ] 로딩 씬 구현
 - [ ] Player 애니메이션 제작
 - [ ] 히트, 죽음 이펙트 생성 및 데이터 마다 이펙트 추가
 - [ ] SoundManager 만들기
+- [ ] 무기 강화 시스템 구현
 
 
 ## Complete

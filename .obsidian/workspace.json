@@ -145,10 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "019d69acb9a99b09",
   "lastOpenFiles": [
-    "Programming/백준/String/(Silver 5 - 10384) 팬그램.md",
+    "Programming/백준/String/(Silver 4 - 1544) 사이클 단어.md",
     "SwordProject Todo.md",
+    "Programming/백준/String/(Silver 5 - 15904) UCPC는 무엇의 약자일까.md",
+    "Programming/백준/String/(Silver 5 - 10384) 팬그램.md",
     "하는것들 리스트.md",
     "AchieveManager.md",
     "Programming/백준/String/(Silver 5 - 17176) 암호해독기.md",
@@ -171,8 +173,6 @@
     "Programming/백준/String/(Bronze 2 - 10173) 니모를 찾아서.md",
     "Programming/백준/String/(Silver 5 - 5555) 반지.md",
     "Programming/CSharp/Sort/숫자 형태 문자열 정렬 List.OrderBy().md",
-    "Programming/CSharp/Sort/List 내림차순 정렬.md",
-    "Programming/백준/String/(Silver 4 - 2870) 수학숙제.md",
     "Programming/CSharp/Sort",
     "Unity/SpriteResolver & SpriteLibrary",
     "Unity/Addressable",
