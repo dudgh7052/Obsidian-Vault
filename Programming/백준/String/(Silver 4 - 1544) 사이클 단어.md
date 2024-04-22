@@ -2,6 +2,7 @@
 tags:
   - Baekjoon
   - String
+  - 브루트포스
 ---
 https://www.acmicpc.net/problem/1544
 ```C#
