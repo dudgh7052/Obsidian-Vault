@@ -11,8 +11,10 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "SwordProject Todo.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SwordProject Todo.md"
+              }
             }
           }
         ],
@@ -139,10 +145,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "019d69acb9a99b09",
   "lastOpenFiles": [
-    "Programming/백준/String/(Bronze 2)/(Bronze 2 - 2154) 수 이어 쓰기 3.md",
+    "AchieveManager.md",
+    "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1026) 보물.md",
+    "Programming/백준/그리디/(Silver 5)",
+    "Programming/백준/그리디/(Bronze 3)/(Bronze 3 - 10162) 전자레인지.md",
+    "Programming/백준/그리디/(Silver 4)",
+    "Programming/백준/그리디/(Silver 1)",
+    "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 2864) 5와 6의 차이.md",
+    "Programming/백준/그리디/(Bronze 3)",
+    "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 2810) 컵홀더.md",
+    "Programming/백준/그리디/(Bronze 2)",
     "SwordProject Todo.md",
+    "Programming/백준/그리디/(Bronze 1)",
+    "Programming/백준/String/(Bronze 2)/(Bronze 2 - 2154) 수 이어 쓰기 3.md",
     "Programming/백준/String/(Silver 4)/(Silver 4 - 16499) 동일한 단어 그룹화하기.md",
     "Programming/백준/String/(Silver 4)/(Silver 4 - 1544) 사이클 단어.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 1181) 단어 정렬.md",
@@ -157,26 +174,15 @@
     "Programming/백준/String/(Silver 4)",
     "Programming/백준/String/(Silver 3)",
     "Programming/백준/String/(Bronze 4)/(Bronze 4 - 1264) 모음의 개수.md",
-    "Programming/백준/String/(Bronze 5)",
     "Programming/백준/String/(Bronze 3)/(Bronze 3 - 2857) FBI.md",
-    "Programming/백준/String/(Bronze 4)",
     "Programming/백준/String/(Bronze 2)/(Bronze 2 - 1100) 하얀 칸.md",
-    "Programming/백준/String/(Bronze 3)",
     "Programming/백준/String/(Bronze 1)/(Bronze 1 - 17202) 핸드폰 번호 궁합.md",
-    "Programming/백준/String/(Bronze 2)",
-    "Programming/백준/String/(Bronze 1)",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 15904) UCPC는 무엇의 약자일까.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 10384) 팬그램.md",
     "하는것들 리스트.md",
-    "AchieveManager.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 17176) 암호해독기.md",
     "Programming/백준/String/(Silver 4)/(Silver 4 - 11507) 카드셋트.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 1380) 귀걸이.md",
-    "2024-04-18.md",
-    "Programming/백준/String/(Silver 5)/(Silver 5 - 12871) 무한 문자열.md",
-    "Programming/백준/String/(Silver 5)/(Silver 5 - 11536) 줄 세우기.md",
-    "Programming/CSharp/switch expression.md",
-    "Programming/CSharp/Sort",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
