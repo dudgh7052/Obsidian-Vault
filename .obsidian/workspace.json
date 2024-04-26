@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
-                "mode": "source",
-                "source": false
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md"
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -149,8 +147,10 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "SwordProject Todo.md",
+    "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 27930) 당신은 운명을 믿나요.md",
+    "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 25176) 청정수열 (Easy).md",
     "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
+    "SwordProject Todo.md",
     "AchieveManager.md",
     "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1026) 보물.md",
     "Programming/백준/그리디/(Silver 5)",
@@ -183,8 +183,6 @@
     "Programming/백준/String/(Silver 5)/(Silver 5 - 15904) UCPC는 무엇의 약자일까.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 10384) 팬그램.md",
     "하는것들 리스트.md",
-    "Programming/백준/String/(Silver 5)/(Silver 5 - 17176) 암호해독기.md",
-    "Programming/백준/String/(Silver 4)/(Silver 4 - 11507) 카드셋트.md",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
