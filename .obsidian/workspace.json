@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md"
               }
             }
           }
@@ -145,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019d69acb9a99b09",
+  "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "SwordProject Todo.md",
+    "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
     "AchieveManager.md",
     "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1026) 보물.md",
     "Programming/백준/그리디/(Silver 5)",
@@ -157,7 +161,6 @@
     "Programming/백준/그리디/(Bronze 3)",
     "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 2810) 컵홀더.md",
     "Programming/백준/그리디/(Bronze 2)",
-    "SwordProject Todo.md",
     "Programming/백준/그리디/(Bronze 1)",
     "Programming/백준/String/(Bronze 2)/(Bronze 2 - 2154) 수 이어 쓰기 3.md",
     "Programming/백준/String/(Silver 4)/(Silver 4 - 16499) 동일한 단어 그룹화하기.md",
@@ -182,7 +185,6 @@
     "하는것들 리스트.md",
     "Programming/백준/String/(Silver 5)/(Silver 5 - 17176) 암호해독기.md",
     "Programming/백준/String/(Silver 4)/(Silver 4 - 11507) 카드셋트.md",
-    "Programming/백준/String/(Silver 5)/(Silver 5 - 1380) 귀걸이.md",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
