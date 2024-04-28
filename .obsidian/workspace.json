@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0fe6b676673e66a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "SwordProject Todo.md"
+              }
+            }
+          },
+          {
+            "id": "3dd7dd468352f194",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "SwordProject Todo.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md"
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -147,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "3dd7dd468352f194",
   "lastOpenFiles": [
+    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1920) 수 찾기.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
     "SwordProject Todo.md",
@@ -182,7 +204,6 @@
     "Programming/백준/String/(Silver 5)/(Silver 5 - 11008) 복붙의 달인.md",
     "Programming/백준/BFS/(Silver 3 - 2606) 바이러스.md",
     "Programming/백준/String/(Bronze 23)",
-    "Programming/백준/BFS/(Silver 1 - 2178) 미로 탐색.md",
     "Programming/백준/String/(Silver 5)",
     "Programming/백준/String/(Silver 4)",
     "Pasted image 20240112183628.png",
