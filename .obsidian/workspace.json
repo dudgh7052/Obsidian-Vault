@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
-                "mode": "source",
-                "source": false
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md"
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -149,6 +147,7 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "Programming/백준/String/(Bronze 1)/(Bronze 1 - 3035) 스캐너.md",
     "SwordProject Todo.md",
     "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
     "Unity/GetComponent.md",
@@ -184,7 +183,6 @@
     "Programming/백준/String/(Bronze 5)/(Bronze 5 - 2744) 대소문자 바꾸기.md",
     "Programming/백준/String/(Silver 4)",
     "Programming/백준/String/(Silver 3)",
-    "Programming/백준/String/(Bronze 4)/(Bronze 4 - 1264) 모음의 개수.md",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
