@@ -11,11 +11,9 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
-                "mode": "source",
-                "source": false
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
+                "file": "SwordProject Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
+                "file": "SwordProject Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md"
+                "file": "SwordProject Todo.md"
               }
             }
           }
@@ -149,11 +147,13 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1920) 수 찾기.md",
-    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
-    "SwordProject Todo.md",
-    "Programming/백준/자료구조/(Silver 4)",
     "Programming/백준/String/(Bronze 1)/(Bronze 1 - 3035) 스캐너.md",
+    "SwordProject Todo.md",
+    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10815) 숫자 카드.md",
+    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
+    "Programming/백준/자료구조/(Silver 5)",
+    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1920) 수 찾기.md",
+    "Programming/백준/자료구조/(Silver 4)",
     "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
     "Unity/GetComponent.md",
     "Unity/Attribute.md",
@@ -182,9 +182,7 @@
     "Programming/백준/String/(Silver 5)/(Silver 5 - 11008) 복붙의 달인.md",
     "Programming/백준/BFS/(Silver 3 - 2606) 바이러스.md",
     "Programming/백준/String/(Bronze 23)",
-    "Programming/백준/BFS/(Silver 1 - 2178) 미로 탐색.md",
     "Programming/백준/String/(Silver 5)",
-    "Programming/백준/String/(Silver 4)",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",

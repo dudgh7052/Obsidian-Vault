@@ -1,6 +1,6 @@
 ---
 tags:
-  - bake
+  - Baekjoon
   - String
 ---
 https://www.acmicpc.net/problem/3035
