@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md"
               }
             }
           }
@@ -147,8 +149,8 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/String/(Bronze 1)/(Bronze 1 - 3035) 스캐너.md",
     "SwordProject Todo.md",
+    "Programming/백준/String/(Bronze 1)/(Bronze 1 - 3035) 스캐너.md",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10815) 숫자 카드.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
     "Programming/백준/자료구조/(Silver 5)",
