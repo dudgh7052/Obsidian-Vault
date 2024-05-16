@@ -10,9 +10,6 @@ kanban-plugin: basic
 
 ## 하는중
 
-- [ ] Sword 윈도우 구성
-- [ ] SwordInfoPage 구성
-- [ ] 메인 탭 재화 표시
 - [ ] Sword Upgrade 재화 소비
 - [ ] Option 윈도우 구성
 
@@ -43,6 +40,9 @@ kanban-plugin: basic
 - [ ] 스테이지 선택 및 씬 넘어가기
 - [ ] 스테이지 씬 스테이지 데이터 설정
 - [ ] 검 장착
+- [ ] 메인 탭 재화 표시
+- [ ] Sword 윈도우 구성
+- [ ] SwordInfoPage 구성
 
 
 ## 보수작업 리스트
