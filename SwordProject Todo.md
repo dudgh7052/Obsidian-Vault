@@ -6,15 +6,15 @@ kanban-plugin: basic
 
 ## 이번주 할거
 
+
+
+## 하는중
+
 - [ ] Sword 윈도우 구성
 - [ ] SwordInfoPage 구성
 - [ ] 메인 탭 재화 표시
 - [ ] Sword Upgrade 재화 소비
 - [ ] Option 윈도우 구성
-
-
-## 하는중
-
 
 
 ## 할거 리스트
