@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md",
+                "file": "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md",
+                "file": "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md",
+                "file": "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md"
+                "file": "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/자료구조/(Gold 3)/(Gold 3 - 16934) 게임 닉네임.md",
+    "SwordProject Todo.md",
+    "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
+    "AchieveManager.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md",
+    "Programming/백준/자료구조/(Gold 3)/(Gold 3 - 16934) 게임 닉네임.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 14670) 병약한 영정.md",
     "Programming/백준/자료구조/(Gold 3)",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 25325) 학생 인기도 측정.md",
@@ -158,7 +161,6 @@
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 17219) 비밀번호 찾기.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 14425) 문자열 집합.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1764) 듣보잡.md",
-    "SwordProject Todo.md",
     "Programming/백준/String/(Bronze 1)/(Bronze 1 - 3035) 스캐너.md",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10815) 숫자 카드.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 10816) 숫자 카드 2.md",
@@ -174,13 +176,11 @@
     "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 27930) 당신은 운명을 믿나요.md",
     "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 25176) 청정수열 (Easy).md",
     "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
-    "AchieveManager.md",
     "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1026) 보물.md",
     "Programming/백준/그리디/(Silver 5)",
     "Programming/백준/그리디/(Bronze 3)/(Bronze 3 - 10162) 전자레인지.md",
     "Programming/백준/그리디/(Silver 4)",
     "Programming/백준/그리디/(Silver 1)",
-    "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 2864) 5와 6의 차이.md",
     "Programming/백준/그리디/(Bronze 3)",
     "Programming/백준/그리디/(Bronze 2)",
     "Programming/백준/그리디/(Bronze 1)",
