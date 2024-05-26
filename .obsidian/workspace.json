@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md",
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md",
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md",
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md"
+                "file": "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "SwordProject Todo.md",
     "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md",
+    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md",
+    "SwordProject Todo.md",
     "Programming/백준/Sort/(Silver 2)",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 28446) 불링공 찾아주기.md",
     "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
@@ -178,7 +179,6 @@
     "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
     "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 27930) 당신은 운명을 믿나요.md",
     "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 25176) 청정수열 (Easy).md",
-    "Programming/백준/그리디/(Bronze 2)/(Bronze 2 - 28062) 준석이의 사탕 사기.md",
     "Programming/백준/그리디/(Silver 5)",
     "Programming/백준/그리디/(Silver 4)",
     "Programming/백준/그리디/(Silver 1)",
