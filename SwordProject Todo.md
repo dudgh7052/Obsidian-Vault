@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## 이번주 할거
 
+- [ ] Sword 데이터 생각해보기
 
 
 ## 하는중
 
-- [ ] Sword Upgrade 재화 소비
 - [ ] Option 윈도우 구성
 - [ ] 사운드 이펙트 오디오 소스 여러개
 
