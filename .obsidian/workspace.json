@@ -11,9 +11,11 @@
             "id": "0a9b279e2b8a652d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11645) I’ve Been Everywhere, Man.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11645) I’ve Been Everywhere, Man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SwordProject Todo.md",
+                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11645) I’ve Been Everywhere, Man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SwordProject Todo.md"
+                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11645) I’ve Been Everywhere, Man.md"
               }
             }
           }
@@ -147,10 +149,11 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
+    "SwordProject Todo.md",
+    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11645) I’ve Been Everywhere, Man.md",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 29723) 브실이의 입시전략.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 15233) Final Score.md",
     "Programming/백준/Sort/(Silver 2)/(Silver 2 - 18870) 좌표 압축.md",
-    "SwordProject Todo.md",
     "Programming/백준/Sort/(Silver 2)",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 28446) 불링공 찾아주기.md",
     "Programming/백준/자료구조/(Silver 3)/(Silver 3 - 17479) 정식당.md",
@@ -176,7 +179,6 @@
     "Programming/Unity/AddComponent().md",
     "Programming/Unity/GetType().md",
     "Programming/Unity/Animator를 쓸 때 StringToHash 사용.md",
-    "Programming/백준/그리디/(Bronze 1)/(Bronze 1 - 27930) 당신은 운명을 믿나요.md",
     "Programming/백준/그리디/(Silver 5)",
     "Programming/백준/그리디/(Silver 4)",
     "Programming/백준/그리디/(Silver 1)",
