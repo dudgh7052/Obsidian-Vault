@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md",
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 10825) 국영수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md",
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 10825) 국영수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md",
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 10825) 국영수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md"
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 10825) 국영수.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10527) Judging Troubles.md",
+    "Programming/백준/Sort/(Silver 4)/(Silver 4 - 10825) 국영수.md",
+    "Programming/백준/Sort/(Silver 4)",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md",
+    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10527) Judging Troubles.md",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 18679) Banana.md",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 25584) 근무 지옥에 빠진 푸앙이 (Large).md",
     "SwordProject Todo.md",
@@ -178,13 +180,11 @@
     "Programming/백준/자료구조/(Silver 5)",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 1920) 수 찾기.md",
     "Programming/백준/자료구조/(Silver 4)",
-    "Programming/백준/String/(Bronze 2)/(Bronze 2 - 16171) 나는 친구가 적다 (Small).md",
     "Programming/백준/그리디/(Silver 5)",
     "Programming/백준/그리디/(Silver 4)",
     "Programming/백준/그리디/(Silver 1)",
     "Programming/백준/그리디/(Bronze 3)",
     "Programming/백준/그리디/(Bronze 2)",
-    "Programming/백준/그리디/(Bronze 1)",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
