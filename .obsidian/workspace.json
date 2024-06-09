@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
+                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
+                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
+                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md"
+                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "0a9b279e2b8a652d",
   "lastOpenFiles": [
-    "Programming/백준/Sort/(Bronze 1)/(Bronze 1 - 2693) N번째 큰 수.md",
     "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
+    "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
+    "Programming/백준/Sort/(Bronze 1)/(Bronze 1 - 2693) N번째 큰 수.md",
     "Programming/백준/Sort/(Bronze 2)/(Bronze 2 - 2587) 대표값.md",
     "Programming/백준/Sort/(Silver 5)/(Silver 5 - 10867) 중복 빼고 정렬하기.md",
     "Programming/백준/Sort/(Bronze 2)",
@@ -180,7 +181,6 @@
     "Programming/백준/자료구조/(Gold 3)/(Gold 3 - 16934) 게임 닉네임.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 14670) 병약한 영정.md",
     "Programming/백준/자료구조/(Gold 3)",
-    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 25325) 학생 인기도 측정.md",
     "Programming/백준/자료구조/(Silver 5)",
     "Programming/백준/자료구조/(Silver 4)",
     "Programming/백준/그리디/(Silver 5)",
