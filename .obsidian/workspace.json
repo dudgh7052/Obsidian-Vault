@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfbad5c5a42b8ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md"
+                "file": "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a9b279e2b8a652d",
+  "active": "dfbad5c5a42b8ff8",
   "lastOpenFiles": [
+    "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
     "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
     "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
     "Programming/백준/Sort/(Bronze 1)/(Bronze 1 - 2693) N번째 큰 수.md",
@@ -179,7 +193,6 @@
     "AchieveManager.md",
     "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 9612) Maximum Word Frequency.md",
     "Programming/백준/자료구조/(Gold 3)/(Gold 3 - 16934) 게임 닉네임.md",
-    "Programming/백준/자료구조/(Silver 4)/(Silver 4 - 14670) 병약한 영정.md",
     "Programming/백준/자료구조/(Gold 3)",
     "Programming/백준/자료구조/(Silver 5)",
     "Programming/백준/자료구조/(Silver 4)",
