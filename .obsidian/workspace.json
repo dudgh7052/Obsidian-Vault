@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1758) 알바생 강호.md",
+                "file": "Programming/백준/그리디/(Silver 5)/(Silver 5 - 11256) 사탕.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1758) 알바생 강호.md",
+                "file": "Programming/백준/그리디/(Silver 5)/(Silver 5 - 11256) 사탕.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1758) 알바생 강호.md",
+                "file": "Programming/백준/그리디/(Silver 5)/(Silver 5 - 11256) 사탕.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1758) 알바생 강호.md"
+                "file": "Programming/백준/그리디/(Silver 5)/(Silver 5 - 11256) 사탕.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "9bf86e29c3aa5559",
   "lastOpenFiles": [
-    "Programming/백준/그리디/(Silver 1)/(Silver 1 - 11497) 통나무 건너뛰기.md",
     "Programming/백준/그리디/(Silver 4)/(Silver 4 - 1758) 알바생 강호.md",
+    "Programming/백준/그리디/(Silver 5)/(Silver 5 - 11256) 사탕.md",
+    "Programming/백준/그리디/(Silver 1)/(Silver 1 - 11497) 통나무 건너뛰기.md",
     "Programming/백준/Sort/(Silver 5)/(Silver 5 - 9237) 이장님 초대.md",
     "Programming/백준/Sort/(Silver 3)/(Silver 3 - 2012) 등수 매기기.md",
     "Programming/백준/Sort/(Silver 5)/(Silver 5 - 5800) 성적 통계.md",
@@ -179,7 +180,6 @@
     "Programming/백준/Sort/(Silver 5)",
     "Programming/백준/Sort/(Silver 4)",
     "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 11235) Polling.md",
-    "Programming/백준/자료구조/(Silver 5)/(Silver 5 - 10527) Judging Troubles.md",
     "Programming/백준/Sort/(Silver 2)",
     "Programming/백준/자료구조/(Gold 3)",
     "Programming/백준/자료구조/(Silver 5)",
