@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Silver 3 - 21921) 블로그.md",
+                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Silver 3 - 21921) 블로그.md",
+                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Silver 3 - 21921) 블로그.md",
+                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Silver 3 - 21921) 블로그.md"
+                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "9bf86e29c3aa5559",
   "lastOpenFiles": [
-    "Programming/백준/Prefix Sum/(Silver 3 - 12847) 꿀 아르바이트.md",
-    "Programming/백준/Prefix Sum/(Silver 3 - 21921) 블로그.md",
-    "Programming/백준/Prefix Sum/(Silver 3 - 11441) 합 구하기.md",
-    "Programming/백준/Prefix Sum/(Silver 3 - 11659) 구간 합 구하기 4.md",
+    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 11441) 합 구하기.md",
+    "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
+    "Programming/백준/Prefix Sum/(Gold 4)",
+    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 21921) 블로그.md",
+    "Programming/백준/Prefix Sum/(Silver 3)",
+    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 12847) 꿀 아르바이트.md",
+    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 11659) 구간 합 구하기 4.md",
     "Programming/백준/0. 알고리즘 개념/누적합(Prefix sum).md",
     "Programming/백준/Prefix Sum",
     "Programming/백준/0. 알고리즘 개념/깊이 우선 탐색(DFS), 너비 우선 탐색 (BFS).md",
@@ -177,14 +180,11 @@
     "Programming/백준/Sort/(Silver 3)/(Silver 3 - 7795) 먹을 것인가 먹힐 것인가.md",
     "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
     "Programming/백준/Sort/(Silver 3)",
-    "Programming/백준/Sort/(Silver 5)/(Silver 5 - 2822) 점수 계산.md",
     "Programming/백준/Sort/(Bronze 2)",
     "Programming/백준/Sort/(Bronze 1)",
     "Programming/백준/Sort/(Silver 5)",
     "Programming/백준/Sort/(Silver 4)",
     "Programming/백준/Sort/(Silver 2)",
-    "Programming/백준/자료구조/(Gold 3)",
-    "Programming/백준/자료구조/(Silver 5)",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
