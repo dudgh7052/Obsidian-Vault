@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
+                "file": "Programming/백준/Prefix Sum/(Silver 4)/(Silver 4 - 2003) 수들의 합 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
+                "file": "Programming/백준/Prefix Sum/(Silver 4)/(Silver 4 - 2003) 수들의 합 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
+                "file": "Programming/백준/Prefix Sum/(Silver 4)/(Silver 4 - 2003) 수들의 합 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md"
+                "file": "Programming/백준/Prefix Sum/(Silver 4)/(Silver 4 - 2003) 수들의 합 2.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "9bf86e29c3aa5559",
   "lastOpenFiles": [
-    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 11441) 합 구하기.md",
     "Programming/백준/Prefix Sum/(Gold 4)/(Gold 4 - 1806) 부분합.md",
+    "Programming/백준/Prefix Sum/(Silver 4)/(Silver 4 - 2003) 수들의 합 2.md",
+    "Programming/백준/Prefix Sum/(Silver 4)",
+    "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 11441) 합 구하기.md",
     "Programming/백준/Prefix Sum/(Gold 4)",
     "Programming/백준/Prefix Sum/(Silver 3)/(Silver 3 - 21921) 블로그.md",
     "Programming/백준/Prefix Sum/(Silver 3)",
@@ -178,13 +180,11 @@
     "Programming/백준/Sort/(Silver 2)/(Silver 2 - 2075) N번째 큰 수.md",
     "Programming/백준/Sort/(Silver 3)/(Silver 3 - 2108) 통계학.md",
     "Programming/백준/Sort/(Silver 3)/(Silver 3 - 7795) 먹을 것인가 먹힐 것인가.md",
-    "Programming/백준/Sort/(Silver 4)/(Silver 4 - 1269) 대칭 차집합.md",
     "Programming/백준/Sort/(Silver 3)",
     "Programming/백준/Sort/(Bronze 2)",
     "Programming/백준/Sort/(Bronze 1)",
     "Programming/백준/Sort/(Silver 5)",
     "Programming/백준/Sort/(Silver 4)",
-    "Programming/백준/Sort/(Silver 2)",
     "Pasted image 20240112183628.png",
     "Pasted image 20240112183649.png",
     "Pasted image 20240112183624.png",
