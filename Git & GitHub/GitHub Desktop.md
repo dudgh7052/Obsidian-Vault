@@ -13,7 +13,7 @@ tags:
 2. File - Clone repository 클릭
 3. Your repositories에서 Repository 선택
 4. 미리 폴더 만들어 놓고,  'Local Path'에서 해당 폴더 선택
-5. 폴더에 [[Unity]] 프로젝트 복사 후 'Changes'에서 확인 가능
+5. 폴더에 [[UnityEvent로 커스텀 이벤트 만들기]] 프로젝트 복사 후 'Changes'에서 확인 가능
 6. 'Summary'에 코멘트 달고, 'Commit to main' 클릭
 7. 'Push Origin' 클릭 - GitHub에 업데이트
 8. GitHub Push 완료

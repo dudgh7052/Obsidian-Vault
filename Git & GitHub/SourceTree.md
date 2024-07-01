@@ -24,7 +24,7 @@ tags:
 1. https://github.com/ 접속, 로그인
 2. Repositories 탭 이동 후, 'New' 클릭
 3. Repository name 설정, Public 설정
-4. Add .gitignore 탭에서 Unity 설정 - [[Unity]] 관련 불필요 파일들을 제외하고 올리게 해줌
+4. Add .gitignore 탭에서 Unity 설정 - [[UnityEvent로 커스텀 이벤트 만들기]] 관련 불필요 파일들을 제외하고 올리게 해줌
 5. Repository 생성 후 'Code' 탭에서 HTTPS 주소 확인 - 원격 저장소 주소 역할
 6. Repository 생성 완료
 
